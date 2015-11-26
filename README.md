@@ -21,7 +21,7 @@ tap the right key.
 opposite direction. (But do you want to slow down?)
 - **tab:** Go into "trace mode", where your path is shown as a red line.
   I recommend it especially on Level 8. Just enable trace mode and sit
-back and enjoy the trace. It's also helpful on Levels 4 and 6
+back and enjoy the trace. It's also helpful on Levels 4 and 6.
 
 ## Instructions:
 
