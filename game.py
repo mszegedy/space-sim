@@ -1,4 +1,4 @@
-#!/usr/bin/python2
+#!/usr/bin/python
 
 import sys
 from math import cos,sin,pi
@@ -137,7 +137,7 @@ class Destination:
 pg.init()
 pg.display.set_caption("Orbit Racers")
 screen = pg.display.set_mode((800, 600))
-trace = pg.Surface((800, 600))
+trace = pg.Surface((800, 600)) #pylint: disable=too-many-function-args
 tracep = False
 bg = pg.image.load("graphics/bg.png").convert()
 levels = [Environment(Spaceship(200, 300, 90, 0, 0),
